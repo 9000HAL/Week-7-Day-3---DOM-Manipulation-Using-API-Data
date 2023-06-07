@@ -5,6 +5,7 @@
 
 
 // .getElementsByTagName()
+//document.getElementsByTagName('h1') ---- see rec'g---------------------------
 
 // .getElementsByClassName()
 
@@ -29,6 +30,10 @@
 // onclick="function(event)"
 
 // Lets create a new button and append to a specfic div
+
+
+
+
 
 // adding addEventListener() to new button to add text every time its clicked
 
