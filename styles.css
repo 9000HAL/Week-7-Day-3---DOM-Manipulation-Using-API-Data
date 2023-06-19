@@ -1,3 +1,12 @@
-.cadens-color {
-    background-color: green
-}
+.card {
+    width: 18rem;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
