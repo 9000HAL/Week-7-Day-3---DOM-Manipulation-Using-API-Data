@@ -73,7 +73,7 @@ const pokemonData = async (name) => {
     console.log(data)
     pokeDiv.innerHTML = `
     
-    see recodingg------------------
+    see recordinggggggggggggggggggggggggggggggg------------------
     
     
     
